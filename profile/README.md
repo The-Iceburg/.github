@@ -4,4 +4,4 @@
 
 | [![popiicon](https://user-images.githubusercontent.com/67003539/196790518-ba16148b-fffd-4ee3-a542-9cc7a7c99ad4.png)](https://github.com/The-Iceburg/Popi) | |
 | ---- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
-| Popi | What will be The Iceburg's next project? - Suggest an idea or feature to add to an existing project: [Twitter 🔗](https://twitter.com/theiceburg21)|
+| Popi | What will be The Iceburg's next project? - Suggest an idea or feature to add to an existing project over on twitter: [Twitter 🔗](https://twitter.com/theiceburg21)|
