@@ -5,3 +5,7 @@
 | [![popiicon](https://user-images.githubusercontent.com/67003539/196790518-ba16148b-fffd-4ee3-a542-9cc7a7c99ad4.png)](https://github.com/The-Iceburg/Popi) | [![mcdatapacker](https://user-images.githubusercontent.com/67003539/212380133-240db0de-97be-458d-9279-4bd23d97278e.png)](https://github.com/The-Iceburg/MCDataPacker) | [![totemsplusneticon](https://user-images.githubusercontent.com/67003539/212381542-3df4bc57-5376-4bd0-852f-2139d0fff563.png)](https://github.com/The-Iceburg/TotemsPlusNet)
 | ---- | ------------ | ------------- |
 | Popi | MCDataPacker | TotemsPlusNet |
+
+# Take a look at our featured project...
+
+[![totemsplusbanner](https://github.com/The-Iceburg/.github/assets/67003539/6b0a5570-44b6-44b1-a828-f61a27148e32)](https://github.com/The-Iceburg/TotemsPlus)
