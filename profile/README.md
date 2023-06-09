@@ -1,23 +1,9 @@
-# Take a look at some of our projects...
+# Take a look at our work...
 
-[![totemsplusbanner](https://github.com/The-Iceburg/.github/assets/67003539/6b0a5570-44b6-44b1-a828-f61a27148e32)](https://github.com/The-Iceburg/TotemsPlus)
+| [![totemsplus - Copy](https://user-images.githubusercontent.com/67003539/181241302-84971b1d-79d6-4521-98c9-1aa833037e6b.png)](https://github.com/The-Iceburg/TotemsPlus) | [![airports - Copy](https://user-images.githubusercontent.com/67003539/181241372-2044569a-9fae-4413-a4c5-a52c67b2795c.png)](https://github.com/The-Iceburg/Airports) | [![areatrainer - Copy](https://user-images.githubusercontent.com/67003539/181241405-9a9c9efa-168a-49b2-bdf8-de89ca90a0a8.png)](https://github.com/The-Iceburg/Area-Trainer) | [![passwordchecker - Copy](https://user-images.githubusercontent.com/67003539/181241457-676b46f5-3f3d-4522-a70a-34a9545f744b.png)](https://github.com/The-Iceburg/Password-Checker) | [![steganography](https://user-images.githubusercontent.com/67003539/181245557-52acd31b-6500-48a1-8846-5b477a9353ab.png)](https://github.com/The-Iceburg/Steganography) | [![dotgithub](https://user-images.githubusercontent.com/67003539/181246538-8cd5f43a-24de-48ce-8451-4cd2d8744eb4.png)](https://github.com/The-Iceburg/.github) | [![lifeguard](https://user-images.githubusercontent.com/67003539/196786827-133c0b1e-42fe-453e-aa73-cef9eb2f254d.png)](https://github.com/The-Iceburg/Lifesaving-Competition-Calculator) | [![portfoliosicon](https://user-images.githubusercontent.com/67003539/196788798-533573f1-e2ee-466e-8df9-da567d3fee00.png)](https://github.com/The-Iceburg/Portfolio) |
+| ----------- | -------- | ------------ | ---------------- | ------------- | ------- | ---- | --------- |
+| Totems Plus | Airports | Area Trainer | Password Checker | Steganography | .github | LSCC | Portfolio |
 
-[![totemplusnetbanner](https://github.com/The-Iceburg/.github/assets/67003539/a041188b-e818-4e67-8adb-869626b28ad1)](https://github.com/The-Iceburg/TotemsPlusNet)
-
-[![airportsbanner](https://github.com/The-Iceburg/.github/assets/67003539/58929dbc-1a26-42a1-9914-b8fa761f7d09)](https://github.com/The-Iceburg/Airports)
-
-[![areatrainerbanner](https://github.com/The-Iceburg/.github/assets/67003539/268e47f0-4fd5-41d7-8d3d-f93f5a376e52)](https://github.com/The-Iceburg/Area-Trainer)
-
-[![passwordcheckerbanner](https://github.com/The-Iceburg/.github/assets/67003539/694f2518-de98-465b-81fc-a83ee866f5d6)](https://github.com/The-Iceburg/Password-Checker)
-
-[![steganographybanner](https://github.com/The-Iceburg/.github/assets/67003539/b6ca3f85-8807-4757-98e4-c67d08d7e367)](https://github.com/The-Iceburg/Steganography)
-
-[![image](https://github.com/The-Iceburg/.github/assets/67003539/ebcec271-b519-4b34-9a38-2c5562fba6f1)](https://github.com/The-Iceburg/.github)
-
-[![lifesavingcompetitioncalculatorbanner](https://github.com/The-Iceburg/.github/assets/67003539/1886fd0c-0ebd-4c5b-a647-aefa801e32e5)](https://github.com/The-Iceburg/Lifesaving-Competition-Calculator)
-
-[![portfoliosbanner](https://github.com/The-Iceburg/.github/assets/67003539/fcee55e2-2a95-4730-b938-a3ed4f31c1b7)](https://github.com/The-Iceburg/Portfolio)
-
-[![popibanner](https://github.com/The-Iceburg/.github/assets/67003539/1611f8b1-4ab1-4ffc-8f72-0a8f64ba7242)](https://github.com/The-Iceburg/Popi)
-
-[![mcdatapackerbanner](https://github.com/The-Iceburg/.github/assets/67003539/d84cde1e-c4de-4fe9-892c-67cb8e73dbb1)](https://github.com/The-Iceburg/MCJSON)
+| [![popiicon](https://user-images.githubusercontent.com/67003539/196790518-ba16148b-fffd-4ee3-a542-9cc7a7c99ad4.png)](https://github.com/The-Iceburg/Popi) | [![mcdatapacker](https://user-images.githubusercontent.com/67003539/212380133-240db0de-97be-458d-9279-4bd23d97278e.png)](https://github.com/The-Iceburg/MCDataPacker) | [![totemsplusneticon](https://user-images.githubusercontent.com/67003539/212381542-3df4bc57-5376-4bd0-852f-2139d0fff563.png)](https://github.com/The-Iceburg/TotemsPlusNet)
+| ---- | ------------ | ------------- |
+| Popi | MCDataPacker | TotemsPlusNet |
