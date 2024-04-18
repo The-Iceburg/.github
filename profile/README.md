@@ -29,7 +29,7 @@ Making cool stuff since '21 and yes, we know it's spelt wrong
 | -------- | ------------ | ---------------- |
 | Airports | Area Trainer | Password Checker |
 
-## 👾 Ethical Hacking
+## 👾 Cool Bits
 | [![steganography](https://user-images.githubusercontent.com/67003539/181245557-52acd31b-6500-48a1-8846-5b477a9353ab.png)](https://github.com/The-Iceburg/Steganography) |
 | ------------- |
 | Steganography |
